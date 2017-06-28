@@ -1,5 +1,7 @@
-import scipy as sp
-import numpy as np
+#import scipy as sp
+#import numpy as np
+import new_numpy as np
+import new_scipy as sp
 from scipy.sparse import csr_matrix, diags, spdiags
 from scipy.sparse.linalg import spsolve, eigsh
 from scipy.linalg import det, eigh, solve, eigvalsh, inv

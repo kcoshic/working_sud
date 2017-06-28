@@ -2,8 +2,10 @@
 import os.path
 import re
 import argparse
-import scipy as sp
-import numpy as np
+#import scipy as sp
+#import numpy as np
+import new_numpy as np
+import new_scipy as sp
 import sys
 import time
 #import gviz_api

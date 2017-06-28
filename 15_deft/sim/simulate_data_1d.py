@@ -1,12 +1,13 @@
 #!/usr/bin/python
 import argparse
 import json
-import numpy as np
+#import numpy as np
 import math
-import scipy as sp
+#import scipy as sp
 import scipy.stats as stats
 import sys
-
+import new_numpy as np
+import new_scipy as sp
 
 # List of supported distributions by name
 VALID_DISTRIBUTIONS = '''

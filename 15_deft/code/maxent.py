@@ -1,5 +1,7 @@
-import scipy as sp
-import numpy as np
+#import scipy as sp
+#import numpy as np
+import new_numpy as np
+import new_scipy as sp
 from scipy.linalg import solve, det, norm
 
 import utils
